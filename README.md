@@ -27,6 +27,13 @@ Artinya PWA menggunakan pendekatan AP + BASE.
 
 ![Gambar](img/diagram.png)
 
+Cara Kerja :
+Client mengirim single GraphQL query
+Gateway menganalisis query dan menentukan services mana yang dibutuhkan
+Gateway mengirim request ke masing-masing service yang relevan
+Services mengembalikan data ke gateway
+Gateway mengaggregasi data dan mengembalikan response terpadu ke client
+
 3
 
 
