@@ -3,7 +3,9 @@
 **NIM : 245410057**
 
 ## Jawaban
-1. Saat membuat Progresive Web App (PWA) Resep Masakan:
+
+1.
+ Saat membuat Progresive Web App (PWA) Resep Masakan:
 Aplikasi tetap bisa dipakai walau offline → Availability (A)
 Data disinkronkan nanti saat online → Eventually Consistent (BASE)
 Karena ada ketergantungan jaringan, otomatis memilih Partition Tolerance (P)
