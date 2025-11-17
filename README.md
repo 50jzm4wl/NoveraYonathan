@@ -12,5 +12,13 @@ Artinya PWA menggunakan pendekatan AP + BASE.
 2.GraphQL berfungsi sebagai API gateway yang mengkoordinasikan komunikasi antara berbagai layanan mikro (microservices) dalam sistem terdistribusi.
 
 
+3
+
+
+4
+
+
+
+
 
 
